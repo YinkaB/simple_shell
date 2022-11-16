@@ -1,1 +1,1 @@
-This is a readme
+Shell project by Basha and Yinka
